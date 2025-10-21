@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.13](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.13) (2025-10-21)
+
+- fix: 修复 deploy.sh 下载模式检测输出污染问题 (c038d13)
+
+
 ## [v2025.10.21.12](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.12) (2025-10-21)
 
 - fix: 使用远程分支状态判断，消除对本地目录的依赖 (3778bf4)
