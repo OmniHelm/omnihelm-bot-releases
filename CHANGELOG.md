@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.43](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.43) (2025-10-21)
+
+- refactor(database): 简化 SQL 脚本字符集配置 (5d5088f)
+- fix(database): 强制使用 UTF-8mb4 字符集解决中文乱码 (79e6582)
+
+
 ## [v2025.10.21.41](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.41) (2025-10-21)
 
 - fix(database): 修复 MySQL 连接字符集配置，解决中文双重编码问题 (49d5505)
