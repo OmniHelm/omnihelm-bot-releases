@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.15](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.15) (2025-10-21)
+
+- fix: 修复 deploy.sh 的 latest 版本解析问题 (f9dc162)
+
+
 ## [v2025.10.21.14](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.14) (2025-10-21)
 
 - feat: 添加 latest 关键字支持，优化用户体验 (6bcbd38)
