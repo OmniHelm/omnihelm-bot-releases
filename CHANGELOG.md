@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.38](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.38) (2025-10-21)
+
+- refactor(ui): 优化界面交互文案与代码语义 (ad110c5)
+- fix(config): 修复数据库连接解包与事务提交 (7b676c6)
+
+
 ## [v2025.10.21.36](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.36) (2025-10-21)
 
 - docs: 在部署文档新增品牌定制完整指南 (bd1d6b2)
