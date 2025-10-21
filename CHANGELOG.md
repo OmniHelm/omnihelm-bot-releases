@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.40](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.40) (2025-10-21)
+
+- feat(config): 支持自动去除配置值两端引号 (088fde3)
+- fix(database): 强制使用 UTF-8mb4 字符集解决中文乱码 (168a449)
+
+
 ## [v2025.10.21.38](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.38) (2025-10-21)
 
 - refactor(ui): 优化界面交互文案与代码语义 (ad110c5)
