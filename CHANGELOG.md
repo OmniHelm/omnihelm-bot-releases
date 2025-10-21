@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.29](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.29) (2025-10-21)
+
+- fix: 添加 Docker 镜像 latest 标签问题的完整修复方案 (3226b34)
+
+
 ## [v2025.10.21.28](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.28) (2025-10-21)
 
 - feat: 添加 Docker 镜像诊断与强制重建工具 (90443de)
