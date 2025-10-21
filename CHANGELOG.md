@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.28](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.28) (2025-10-21)
+
+- feat: 添加 Docker 镜像诊断与强制重建工具 (90443de)
+
+
 ## [v2025.10.21.27](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.27) (2025-10-21)
 
 - fix(ci): 提取 README 生成逻辑到独立脚本避免 YAML 解析问题 (b33d7dd)
