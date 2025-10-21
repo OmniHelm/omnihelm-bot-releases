@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.45](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.45) (2025-10-21)
+
+- fix(database): 使用 MySQL 条件注释强制设置客户端字符集 (3e0f254)
+- fix(docker): 设置 MySQL 容器 LANG 环境变量修复初始化脚本中文乱码 (8f6d937)
+
+
 ## [v2025.10.21.43](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.43) (2025-10-21)
 
 - refactor(database): 简化 SQL 脚本字符集配置 (5d5088f)
