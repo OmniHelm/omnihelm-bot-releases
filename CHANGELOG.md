@@ -4,6 +4,13 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.27](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.27) (2025-10-21)
+
+- fix(ci): 提取 README 生成逻辑到独立脚本避免 YAML 解析问题 (b33d7dd)
+- fix(ci): 合并文档更新为单次推送避免重复触发工作流 (8533341)
+- chore: 触发 Docker 镜像重新构建 (0470dd3)
+
+
 ## [v2025.10.21.24](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.24) (2025-10-21)
 
 - fix: 使用多个 -m 参数替代 heredoc 避免 YAML 语法错误 (e5a2726)
