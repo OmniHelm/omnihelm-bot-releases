@@ -4,6 +4,13 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.24](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.24) (2025-10-21)
+
+- fix: 使用多个 -m 参数替代 heredoc 避免 YAML 语法错误 (e5a2726)
+- fix: 修复 sync-release.yml 的 YAML 语法错误 (675e9c4)
+- fix: Auto Release 等待 Sync Release 完成后执行 (bc3b01a)
+
+
 ## [v2025.10.21.20](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.20) (2025-10-21)
 
 - docs: 完善 omnihelm-bot-releases README 生成模板 (f887365)
