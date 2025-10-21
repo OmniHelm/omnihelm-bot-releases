@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.41](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.41) (2025-10-21)
+
+- fix(database): 修复 MySQL 连接字符集配置，解决中文双重编码问题 (49d5505)
+
+
 ## [v2025.10.21.40](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.40) (2025-10-21)
 
 - feat(config): 支持自动去除配置值两端引号 (088fde3)
