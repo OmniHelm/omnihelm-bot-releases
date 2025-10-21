@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.19](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.19) (2025-10-21)
+
+- fix(config): 修复装饰器导入错误 (25dafa1)
+- feat: Sync Release 工作流等待 Docker Build 完成后执行 (3044e93)
+
+
 ## [v2025.10.21.17](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.17) (2025-10-21)
 
 - feat: 添加自动设置 GHCR 镜像为公开的步骤 (38e2e13)
