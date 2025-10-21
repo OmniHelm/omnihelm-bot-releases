@@ -4,6 +4,12 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.31](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.31) (2025-10-21)
+
+- docs: 添加 session 目录结构升级指南 (f0a0f61)
+- fix: 修复 Docker 卷挂载覆盖代码的问题 (187363c)
+
+
 ## [v2025.10.21.29](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.29) (2025-10-21)
 
 - fix: 添加 Docker 镜像 latest 标签问题的完整修复方案 (3226b34)
