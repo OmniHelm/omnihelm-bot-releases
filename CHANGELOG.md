@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.16](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.16) (2025-10-21)
+
+- fix: 修复 deploy.sh 自动检测下载模式的逻辑错误 (9090e79)
+
+
 ## [v2025.10.21.15](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.15) (2025-10-21)
 
 - fix: 修复 deploy.sh 的 latest 版本解析问题 (f9dc162)
