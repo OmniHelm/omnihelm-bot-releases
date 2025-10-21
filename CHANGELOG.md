@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.17](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.17) (2025-10-21)
+
+- feat: 添加自动设置 GHCR 镜像为公开的步骤 (38e2e13)
+
+
 ## [v2025.10.21.16](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.16) (2025-10-21)
 
 - fix: 修复 deploy.sh 自动检测下载模式的逻辑错误 (9090e79)
