@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.32](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.32) (2025-10-21)
+
+- chore: 清理 session 目录修复相关的临时文件 (37422a4)
+
+
 ## [v2025.10.21.31](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.31) (2025-10-21)
 
 - docs: 添加 session 目录结构升级指南 (f0a0f61)
