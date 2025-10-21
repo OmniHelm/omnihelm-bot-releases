@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.20](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.20) (2025-10-21)
+
+- docs: 完善 omnihelm-bot-releases README 生成模板 (f887365)
+
+
 ## [v2025.10.21.19](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.19) (2025-10-21)
 
 - fix(config): 修复装饰器导入错误 (25dafa1)
