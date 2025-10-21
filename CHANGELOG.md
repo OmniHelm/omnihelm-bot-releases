@@ -4,6 +4,14 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.21.36](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.36) (2025-10-21)
+
+- docs: 在部署文档新增品牌定制完整指南 (bd1d6b2)
+- feat: 新增 /start 命令提供 Bot 功能导览 (d42d3ef)
+- docs: 删除 Docker 镜像更新故障排查文档 (e8918b6)
+- chore: 清理修复相关的临时文件 (d91aff3)
+
+
 ## [v2025.10.21.32](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.32) (2025-10-21)
 
 - chore: 清理 session 目录修复相关的临时文件 (37422a4)
