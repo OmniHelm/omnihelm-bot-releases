@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.8](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.8) (2025-10-22)
+
+- feat: 添加 workflow 并发控制，避免重复执行 (46ff34b)
+
+
 ## [v2025.10.22.7](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.7) (2025-10-22)
 
 - fix: 为品牌分支提供正确的部署说明 (fd5e9dd)
