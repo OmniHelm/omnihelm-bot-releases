@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.1](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.1) (2025-10-22)
+
+- ci: 为 neburst 分支添加 workflow 支持 (58fff62)
+
+
 ## [v2025.10.21.45](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.21.45) (2025-10-21)
 
 - fix(database): 使用 MySQL 条件注释强制设置客户端字符集 (3e0f254)
