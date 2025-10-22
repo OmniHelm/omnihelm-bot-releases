@@ -4,6 +4,20 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.4](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.4) (2025-10-22)
+
+- fix: 为 Auto Release workflow 添加品牌分支支持 (e90dfd7)
+- docs: 添加品牌分支管理完整指南 (07eef15)
+- ci: 启用品牌分支自动化支持 (brand-*) (4b01650)
+- ci: 为 neburst 分支添加 workflow 支持 (58fff62)
+- fix(database): 使用 MySQL 条件注释强制设置客户端字符集 (3e0f254)
+- fix(docker): 设置 MySQL 容器 LANG 环境变量修复初始化脚本中文乱码 (8f6d937)
+- refactor(database): 简化 SQL 脚本字符集配置 (5d5088f)
+- fix(database): 强制使用 UTF-8mb4 字符集解决中文乱码 (79e6582)
+- fix(database): 修复 MySQL 连接字符集配置，解决中文双重编码问题 (49d5505)
+- feat(config): 支持自动去除配置值两端引号 (088fde3)
+
+
 ## [v2025.10.22.6](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.6) (2025-10-22)
 
 - refactor: 迁移到 brand-neburst 命名规范 (4a8c5e1)
