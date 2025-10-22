@@ -4,6 +4,20 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.9](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.9) (2025-10-22)
+
+- ci: 重新触发 CI/CD 测试品牌版本号修复 (fe979b5)
+- fix: 为 Auto Release workflow 添加品牌分支支持 (250c41b)
+- docs: 添加品牌分支管理完整指南 (f52c787)
+- refactor: 迁移到 brand-neburst 命名规范 (4a8c5e1)
+- ci: 触发 CI/CD 流程 (a1d8107)
+- chore: 触发 Neburst 分支 CI/CD workflows (0ab5e57)
+- design: 重新设计 templates 页面为 Neburst 品牌风格 (3e4c3bc)
+- chore: 触发 CI/CD workflows (93ec27c)
+- feat: 创建 Neburst-bot 品牌分支 (99ca6a9)
+- fix(database): 使用 MySQL 条件注释强制设置客户端字符集 (3e0f254)
+
+
 ## [v2025.10.22.4](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.4) (2025-10-22)
 
 - fix: 为 Auto Release workflow 添加品牌分支支持 (e90dfd7)
