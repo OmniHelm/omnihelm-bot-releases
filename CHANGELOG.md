@@ -4,6 +4,16 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.6](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.6) (2025-10-22)
+
+- refactor: 迁移到 brand-neburst 命名规范 (4a8c5e1)
+- ci: 触发 CI/CD 流程 (a1d8107)
+- chore: 触发 Neburst 分支 CI/CD workflows (0ab5e57)
+- design: 重新设计 templates 页面为 Neburst 品牌风格 (3e4c3bc)
+- chore: 触发 CI/CD workflows (93ec27c)
+- feat: 创建 Neburst-bot 品牌分支 (99ca6a9)
+
+
 ## [v2025.10.22.2](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.2) (2025-10-22)
 
 - ci: 启用品牌分支自动化支持 (brand-*) (4b01650)
