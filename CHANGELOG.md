@@ -4,6 +4,11 @@
 
 本文档记录所有版本的更新历史。
 
+## [v2025.10.22.2](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.2) (2025-10-22)
+
+- ci: 启用品牌分支自动化支持 (brand-*) (4b01650)
+
+
 ## [v2025.10.22.1](https://github.com/OmniHelm/omnihelm-bot-releases/releases/tag/v2025.10.22.1) (2025-10-22)
 
 - ci: 为 neburst 分支添加 workflow 支持 (58fff62)
